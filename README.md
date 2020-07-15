@@ -6,10 +6,10 @@ I am Ghazi Khan working as Tech Lead @ HCL Technologies. I am an Experienced Ful
 
 ---
 
-- 🔭 I’m currently working as Technical Lead @ HCL Technologies
-- 🌱 I’m currently learning Python - Blockchain
+- 🔭 I’m currently working as **Technical Lead @ HCL Technologies**
+- 🌱 I’m currently learning **Python - Blockchain**
 - 👯 I’m looking to collaborate on open source/commercial projects
 - 🤔 I’m looking for help with digital marketing to drive traffic to my blog
-- 💬 Ask me about Web Development
+- 💬 Ask me about **Web Development**
 - 📫 How to reach me:
   [Twitter](https://twitter.com/codewithghazi), [Instagram](https://instagram.com/codewithghazi)
