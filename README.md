@@ -17,3 +17,5 @@ I am **Ghazi Khan** working as **Tech Lead @ HCL Technologies**. I am an Experie
   [Twitter](https://twitter.com/codewithghazi), [Instagram](https://instagram.com/codewithghazi)
 
 ![Ghazi's github stats](https://github-readme-stats.vercel.app/api?username=gkhan205&show_icons=true&hide_border=true)
+
+![Visitor Count](https://profile-counter.glitch.me/gkhan205/count.svg)
