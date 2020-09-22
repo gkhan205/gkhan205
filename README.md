@@ -6,7 +6,7 @@ I am **Ghazi Khan** working as **Tech Lead @ HCL Technologies**. I am an Experie
 
 **[Blog](https://codewithghazi.com/blog) - [YouTube](https://www.youtube.com/channel/UCio7gIFilw6wsgbTZAVOBrg)**
 
-Author of NPM Package: [Formify React](https://www.npmjs.com/package/formify-react)
+Author of NPM Package: **[Formify React](https://www.npmjs.com/package/formify-react)**
 
 ---
 
