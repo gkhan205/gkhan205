@@ -18,6 +18,6 @@ Author of NPM Package: **[Formify React](https://www.npmjs.com/package/formify-r
 - 📫 How to reach me:
   [Twitter](https://twitter.com/codewithghazi), [Instagram](https://instagram.com/codewithghazi)
 
-![Ghazi's github stats](https://github-readme-stats.vercel.app/api?username=gkhan205&show_icons=true&hide_border=true)
+![Ghazi's github stats](https://github-readme-stats.vercel.app/api?username=gkhan205&show_icons=true&hide_border=true&theme=dark)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=gkhan205)](https://github.com/gkhan205/github-profile-trophy)
