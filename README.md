@@ -6,7 +6,7 @@ I am **Ghazi Khan** working as **Tech Lead @ HCL Technologies**. I am an Experie
 
 **[Blog](https://codewithghazi.com/blog) - [YouTube](https://www.youtube.com/channel/UCio7gIFilw6wsgbTZAVOBrg)**
 
-Author of NPM Package: **[Formify React](https://www.npmjs.com/package/formify-react)**
+Author of NPM Package: **[Formify React](https://www.npmjs.com/package/formify-react)** & **[CWG React Starter](https://github.com/gkhan205/cwg-react-starter)**
 
 ---
 
@@ -16,7 +16,7 @@ Author of NPM Package: **[Formify React](https://www.npmjs.com/package/formify-r
 - 🤔 I’m looking for help with digital marketing to drive traffic to my blog
 - 💬 Ask me about **Web Development**
 - 📫 How to reach me:
-  [Twitter](https://twitter.com/codewithghazi), [Instagram](https://instagram.com/codewithghazi)
+  **[Twitter](https://twitter.com/codewithghazi), [Instagram](https://instagram.com/codewithghazi)**
 
 ![Ghazi's github stats](https://github-readme-stats.vercel.app/api?username=gkhan205&show_icons=true&hide_border=true&theme=dark)
 
