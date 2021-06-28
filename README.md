@@ -8,6 +8,9 @@ Vist my **[Blog](https://codewithghazi.com/blog) - [YouTube](https://www.youtube
 
 Author of NPM Package: **[Formify React](https://www.npmjs.com/package/formify-react)**, **[CWG React Starter](https://github.com/gkhan205/cwg-react-starter)** & **[Slugifyme](https://www.npmjs.com/package/slugifyme)**
 
+[![Linkedin: Ghazi](https://img.shields.io/badge/-Ghazi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ghazi-khan/)](https://www.linkedin.com/in/ghazi-khan/)
+[![GitHub Ghazi](https://img.shields.io/github/followers/bethsugar?label=follow&style=social)](https://github.com/gkhan205)
+
 ---
 
 - 🔭 I’m currently working as **Sr. Software Engineer @ Tech9**
