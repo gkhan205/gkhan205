@@ -42,10 +42,9 @@ Let's connect and build the future together! 🌟
 - 🤔 I’m looking for help with digital marketing to drive traffic to my blog
 - 💬 Ask me about **Web Development**
 - 📫 How to reach me:
-  **[Twitter](https://twitter.com/ghazikhan205), [Instagram](https://instagram.com/codewithghazi)**
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gkhan205&layout=compact&theme=dark&hide_border=true)
+  **[LinkedIn](https://www.linkedin.com/in/ghazi-khan/), [Twitter](https://twitter.com/ghazikhan205), [Instagram](https://instagram.com/codewithghazi)**
 
 ![Ghazi's github stats](https://github-readme-stats.vercel.app/api?username=gkhan205&show_icons=true&hide_border=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gkhan205&layout=compact&theme=dark&hide_border=true)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=gkhan205)](https://github.com/gkhan205/github-profile-trophy)
