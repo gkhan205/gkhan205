@@ -47,4 +47,4 @@ Let's connect and build the future together! 🌟
 ![Ghazi's github stats](https://github-readme-stats.vercel.app/api?username=gkhan205&show_icons=true&hide_border=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gkhan205&layout=compact&theme=dark&hide_border=true)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=gkhan205?theme=onedark)](https://github.com/gkhan205/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=gkhan205&theme=onedark)](https://github.com/gkhan205/github-profile-trophy)
